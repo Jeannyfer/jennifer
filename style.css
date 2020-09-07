@@ -1,0 +1,28 @@
+* {
+    color: cadetblue;
+}
+
+input {
+    background-color: darkgray;
+}
+
+legend {
+    font-size: 3em;
+}
+
+.body1 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.align.art {
+    display: flex
+}
